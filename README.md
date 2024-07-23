@@ -16,6 +16,12 @@
         - MongoDB, SQL Server, PostgreSQL
     - Tools: 
         - Git, Docker, 
+- I have equipped myself with other skills, such as:
+  - Problem solving
+  - TDD (Test-Driven Development)
+  - Agile development
+  - Debugging
+  - Enthusiastic to learn new skills  
 
 
 🌐 Visit my portfolio: [Portfolio Site](https://portifolio-hassen.netlify.app/)
