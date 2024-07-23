@@ -1,11 +1,30 @@
-## Hello! 👋,
-### I am a passionate and highly motivated full stack web developer with expertise in both front-end and back-end technologies.
+### Hello! 👋
 
-- 🌱 I’m currently expanding my programming and codding skills.
-- You can visit my portifolio website here: [Portifolio Site](https://portifolio-hassen.netlify.app/)
-- Please reachout for ferther information through:
-    - [LinkedIn](https://www.linkedin.com/in/hassen-abdela/)
-    - [Email](hassenbest23@gmail.com)
+- I am a passionate and highly motivated full stack web developer with expertise in both front-end and back-end technologies.
+
+- 🌱 I’m currently expanding my programming and coding skills, always eager to learn and take on new challenges.
+
+- 🔧 Technologies & Tools:
+
+    - Languages:
+        - JavaScript, TypeScript, C#
+    - Front-end: 
+        - React, HTML5, CSS3, SASS/Scss, Jest, Vitest, React-Testing-Library
+    - Back-end: 
+        - Node.js, Express, .NET, xUnit
+    - Databases: 
+        - MongoDB, SQL Server, PostgreSQL
+    - Tools: 
+        - Git, Docker, 
+
+
+🌐 Visit my portfolio: [Portfolio Site](https://portifolio-hassen.netlify.app/)
+
+📫 Contact me:
+
+- [LinkedIn](https://www.linkedin.com/in/hassen-abdela/)
+
+- [Email](hassenbest23@gmail.com)
   
 
 <!--
