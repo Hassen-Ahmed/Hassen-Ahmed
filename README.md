@@ -1,4 +1,4 @@
-## Hi there 👋, I am driven full stack web developer.
+## Hello! 👋 I am a passionate and highly motivated full stack web developer with expertise in both front-end and back-end technologies.
 
 - 🌱 I’m currently expanding my programming and codding skills.
 - You can visit my portifolio website here: [Portifolio Site](https://portifolio-hassen.netlify.app/)
