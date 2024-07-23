@@ -1,10 +1,10 @@
 ## Hi there 👋, I am driven full stack web developer.
 
 - 🌱 I’m currently expanding my programming and codding skills.
-- You can visit my portifolio website here: https://portifolio-hassen.netlify.app/
+- You can visit my portifolio website here: [Portifolio Site](https://portifolio-hassen.netlify.app/)
 - Please reachout for ferther information through:
-    - LinkedIn: https://www.linkedin.com/in/hassen-abdela/
-    - Email: hassenbest23@gmail.com
+    - [LinkedIn](https://www.linkedin.com/in/hassen-abdela/)
+    - [Email](hassenbest23@gmail.com)
   
 
 <!--
