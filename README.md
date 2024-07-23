@@ -21,7 +21,7 @@
   - TDD (Test-Driven Development)
   - Agile development
   - Debugging
-  - Enthusiastic to learn new skills  
+  - Enthusiastic to learn new skills and tecknologies 
 
 
 🌐 Visit my portfolio: [Portfolio Site](https://portifolio-hassen.netlify.app/)
