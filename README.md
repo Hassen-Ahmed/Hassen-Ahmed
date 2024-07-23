@@ -20,6 +20,7 @@
   - Problem solving
   - TDD (Test-Driven Development)
   - Agile development
+  - Pair Programming
   - Debugging
   - Enthusiastic to learn new skills and tecknologies 
 
