@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- I am a passionate and highly motivated full stack web developer with expertise in both front-end and back-end technologies.
+- I am a passionate and highly motivated full stack web developer with proficient in both front-end and back-end technologies.
 
 - 🌱 I’m currently expanding my programming and coding skills, always eager to learn and take on new challenges.
 
