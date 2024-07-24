@@ -22,6 +22,7 @@
   - Agile development
   - Pair Programming
   - Debugging
+  - Good eye for detail
   - Enthusiastic to learn new skills and tecknologies 
 
 
