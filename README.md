@@ -1,5 +1,5 @@
 
-![alt text](./full_Stack_Dev.jpeg)
+![alt text](./Full_Stack_Dev.jpeg)
 ### Hello! 👋
 
 - I am a passionate and highly motivated full stack web developer with proficient in both front-end and back-end technologies.
